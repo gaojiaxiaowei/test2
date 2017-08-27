@@ -1,0 +1,57 @@
+.img1{
+    width: 100%;
+    height: auto;
+}
+.swiper-container{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets{
+    bottom:50px;
+}
+.btn{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    z-index: inherit;
+    border-radius:10px;
+    height:100px;
+    background:red ;
+}
+.btn p{
+    font-size: 40px;
+    line-height: 100px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    letter-spacing:5px;
+}
+.btn1{
+    width: 207px;
+    height: 89px;
+    z-index: 100;
+    background: url("../images/join.png") no-repeat;
+    position: relative;
+    top:-235px;
+    left: 375px;
+}
+.btn2{
+    width: 207px;
+    height: 89px;
+    z-index: 100;
+    background: url("../images/join.png") no-repeat;
+    position: fixed;
+    top:2220px;
+    left: 1360px;
+}
+.btn3{
+    width: 207px;
+    height: 89px;
+    z-index: 1;
+    background: url("../images/join.png") no-repeat;
+    position: relative;
+    top:2220px;
+    left:2340px;
+}
