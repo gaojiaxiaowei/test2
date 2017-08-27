@@ -14,7 +14,7 @@
     position: fixed;
     bottom: 0;
     width:100%;
-    z-index: inherit;
+    z-index: 100;
     border-radius:10px;
     height:100px;
     background:red ;
